@@ -28,7 +28,7 @@
       <div>
         <div class="flex flex-wrap items-center gap-2">
           <span class="px-2 py-0.5 text-xs font-semibold rounded bg-blue-600/20 text-blue-400 border border-blue-500/30">
-            WebGL Z-Buffer CAD • SEEE HUST 2026
+            WebGL 
           </span>
           <h1 class="text-base sm:text-lg font-bold">
             Mô Phỏng 3D Half-Size Micromouse (Breadboard → Perfboard → PCB Bo Tròn → Mê Cung 16×16)
